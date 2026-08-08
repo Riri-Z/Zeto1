@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋/h1>
 <h3 align="center">Exploring new ways of thinking</h3>
 
-- 📫 How to reach me **riri.zamor@gmail.com**
 
 <p align="left">
 </p>
